@@ -5,4 +5,5 @@ int main()
     int a;
      int c;
      int d; 
+     char f;
 }
